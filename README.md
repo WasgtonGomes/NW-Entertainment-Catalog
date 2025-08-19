@@ -64,7 +64,7 @@ The project is hosted on **GitHub Pages**:
 ### Nalanda Kippert Flegler
 - 🎓 IT Technician — IFRO Cacoal (2018–2020)  
 - 🎓 Undergraduate in **Systems Analysis and Development** — IFRO Ji-Paraná  
-- 📌 GitHub (to be added if available)  
+- 📌 GitHub ([Nalanda Kippert Flegler](https://github.com/Nalanda-k-F))  
 
 ---
 
